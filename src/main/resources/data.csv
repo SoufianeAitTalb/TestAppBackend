@@ -1,0 +1,11 @@
+ID,Name,Quantity,Price,Category
+101,Apple,50,1.25,Fruit
+102,Banana,75,0.75,Fruit
+103,Milk,30,2.50,Dairy
+104,Eggs,60,1.99,Dairy
+105,Bread,40,3.25,Bakery
+106,Chicken,20,5.75,Meat
+107,Rice,100,4.50,Grains
+108,Carrots,45,1.20,Vegetables
+109,Watermelon,15,4.99,Fruit
+110,Cheese,25,3.75,Dairy
